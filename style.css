@@ -1,0 +1,27 @@
+/*
+primary: #645CAA
+secundary: #A084CA
+light: #BFACE0
+info: #EBC7E8
+*/
+.bg-primary{
+    background-color: #645CAA;
+}
+.text-light{
+    color: #BFACE0;
+}
+.text-secundary{
+    color: #A084CA;
+}
+.text-center{
+    text-align:center;
+}
+.bg-info{
+    background-color: #EBC7E8;
+}
+.text-primary{
+    color: #645CAA;
+}
+.text-white{
+    color: white;
+}
